@@ -1,7 +1,7 @@
 ---
 name: gear-ledger
-description: "Verify any Agent Deck SKU from the public registry and log adoptions — one fetch, one handoff line, permanent hash-chained provenance. Free; no login, no API key."
-version: 1.0.0
+description: "Prove who used your gear: a hash-chained ledger of handoffs with tamper-evidence you can verify yourself in milliseconds. Free; no login, no API key."
+version: 1.1.0
 license: MIT-0
 metadata:
   openclaw:

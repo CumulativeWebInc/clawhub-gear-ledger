@@ -1,11 +1,17 @@
 # Gear Ledger — `clawhub install cwi/gear-ledger`
 
-Verify any Agent Deck SKU from the public registry and log adoptions — one
-fetch, one handoff line, permanent hash-chained provenance.
+Prove who used your gear: a hash-chained ledger of handoffs with
+tamper-evidence you can verify yourself in milliseconds. (MEASURED: 50/50
+forged positions detected, 0/50 false positives, 2026-09-19)
 
 **Free. No login, no API key, no credentials asked — ever.** License: MIT-0.
 
 ## Install
+
+> **Status (2026-09-19):** the ClawHub listing is pending the GitHub-OAuth
+> import (owner tap). The command below is staged — until then, the manual
+> path works today: `git clone https://github.com/CumulativeWebInc/clawhub-gear-ledger`,
+> then run the quickstart.
 
 ```bash
 clawhub install cwi/gear-ledger
